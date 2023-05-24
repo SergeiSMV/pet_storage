@@ -34,7 +34,7 @@ class PetStorage extends StatelessWidget {
           ),
         ),
       ),
-      home: const MyHomePage(title: 'Страница приветствия'),
+      home: const MyHomePage(title: 'PetStorage'),
     );
   }
 }
